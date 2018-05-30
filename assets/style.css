@@ -9,7 +9,7 @@
     top: 520px;
     color: #555;
     font-size: 18px;
-    font-family: 'Lato';
+    font-family: 'Lato', serif;
     text-align: center;
     padding: 10px;
     width: 160px;
@@ -39,7 +39,7 @@ body {
     background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
     background-size: cover;
     background-position: center;
-    font-family: Lato;
+    font-family: Lato, serif;
     font-weight: 500;
     position: relative;
     height: 100vh;
@@ -132,7 +132,7 @@ button {
     color: #555;
     background: none;
     border: none;
-    font-family: Lato;
+    font-family: Lato, serif;
     font-size: 20px;
     text-transform: uppercase;
     cursor: pointer;
@@ -172,18 +172,18 @@ i {
 }
 
 .winner-score{
-        margin: 0 auto;
-        position: absolute;
-        height: 100px;
-        text-align: center;
-        font-size:16px;
-        color: #000;
-        margin-bottom: 130px;
-        left: 40%;
-        background: none;
-        font-family: Lato;
-        text-transform: uppercase;
-        padding-top:80px;
+    margin: 0 auto;
+    position: absolute;
+    height: 100px;
+    text-align: center;
+    font-size:16px;
+    color: #000;
+    margin-bottom: 130px;
+    left: 40%;
+    background: none;
+    font-family: Lato, serif;
+    text-transform: uppercase;
+    padding-top:80px;
 }
 
 .winner {background-color: #ccd4ce;}
